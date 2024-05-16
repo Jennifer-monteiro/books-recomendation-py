@@ -25,4 +25,8 @@ This Python script allows users to search for books by genre or author from a da
 ## Notes
 - Ensure 'books.xlsx' contains book information with columns for title, author, genre, and description.
 
-This README provides a brief overview of the script, how to use it, its requirements, and how it works. For more detailed documentation, refer to the comments within the script or additional documentation files if provided.
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Copyright
+Copyright © 2024 JMC
